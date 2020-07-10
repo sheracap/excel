@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
+    "normalize.css": "^8.0.1",
     "require-path": "^0.3.0"
   },
   "module": "commonjs"
